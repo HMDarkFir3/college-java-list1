@@ -24,7 +24,7 @@ Lista de exercícios passada pelo professor Alexandre Garcia, no intuito de prat
 
 ## 🚀 Tecnologia Utilizada
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+O projeto foi desenvolvido utilizando as seguinte tecnologia:
 
 - [Java](https://www.java.com/pt-BR/)
 
